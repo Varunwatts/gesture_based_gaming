@@ -58,7 +58,4 @@ Pull requests and suggestions are welcome. Let’s build cooler versions togethe
 
 
 
-Would you like me to generate a `requirements.txt` file or GIF preview to go with this?
-```
-
 
